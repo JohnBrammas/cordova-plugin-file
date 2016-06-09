@@ -175,7 +175,7 @@ var windowsPaths = {
     tempDirectory: "ms-appdata:///temp/",
     syncedDataDirectory: "ms-appdata:///roaming/",
     applicationDirectory: "ms-appx:///",
-    applicationStorageDirectory: "ms-appx:///"
+    applicationStorageDirectory: "ms-appdata:///"
 };
 
 var AllFileSystems; 
